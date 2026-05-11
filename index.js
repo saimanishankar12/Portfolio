@@ -44,3 +44,36 @@
       navLinks.classList.remove('open');
     });
   });
+
+
+  function animateCounter(el, target, suffix = '', duration = 1500) {
+  let start = 0;
+  const increment = target / (duration / 16);
+  const timer = setInterval(() => {
+    start += increment;
+    if (start >= target) {
+      el.textContent = target + suffix;
+      clearInterval(timer);
+    } else {
+      el.textContent = Math.floor(start) + suffix;
+    }
+  }, 16);
+}
+
+function initCounters() {
+  const stats = document.querySelectorAll('.hero-stat-num');
+  // [value, suffix]
+  const data = [
+    [12, '+'],
+    [7, ' Months'],
+    [100, '%'],
+    [1, '']
+  ];
+
+  stats.forEach((el, i) => {
+    animateCounter(el, data[i][0], data[i][1]);
+  });
+}
+
+// Trigger when page loads
+window.addEventListener('load', initCounters);
