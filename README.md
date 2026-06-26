@@ -1,4 +1,4 @@
-👨‍💻 Nalam Sai Mani Shankar — Jr. Backend Developer Portfolio
+👨‍💻 Nalam Sai Mani Shankar | Jr. Backend Developer Portfolio
 ![Portfolio](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -8,7 +8,7 @@
 🚀 Personal portfolio website showcasing **12 live production applications** built for real clients during internships.
 
 🙋‍♂️ About
-I'm a Jr. Backend Developer specializing in the **Laravel ecosystem**. This portfolio showcases production applications I built and deployed for real clients across two internships — covering tournament SaaS platforms, institutional CMS systems, franchise lead pipelines, and HR automation tools.
+I'm a Jr. Backend Developer specializing in the **Laravel ecosystem**. This portfolio showcases production applications I built and deployed for real clients across two internships  covering tournament SaaS platforms, institutional CMS systems, franchise lead pipelines, and HR automation tools.
 
 🛠️ Tech Stack
 | Layer | Technologies |
