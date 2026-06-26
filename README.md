@@ -46,11 +46,12 @@ Stack: `Laravel` `RBAC` `SMTP` `MySQL` `Admin Panel` `MVC`
 | [Five Elements](https://fiveelements.anantacore.com/) | 🏡 Luxury real estate — 4 & 5 BHK villas, Hyderabad | ✅ |
 | [Brillen](https://brillen-web.anantacore.com/) | 🏗️ B2B commercial interior / space engineering | ✅ |
 | [R1 PropTurtle](https://r1propturtle.in/) | 🏘️ Real estate lead generation | ✅ |
-| [Go Mill](https://gomill.anantacore.com/) | 🍱 Outside food franchise / investor leads | ✅ |
-| [Pro Mill](https://promill.anantacore.com/) | 💪 Performance nutrition QSR / franchise investment | ✅ |
-| [Swapnow](https://swapnow.anantacore.com/) | 🥤 FitBar kiosk franchise / gym nutrition tech | ✅ |
+| [Non stop](https://nonstop.anantacore.com/) | 🩺 Physiotherapy & Wellness | ✅
+| [Ageon](https://ageon.anantacore.com/) | 🧬 Longevity & Wellness | ✅
+| [Franchise World](https://franchise-world-v2.anantacore.com/) | 🤝 Franchise Investment Platform | ✅
+| [Millet Plaza](https://millet-plaza-v2.anantacore.com/) | 🌾 Millet-Based Dining Franchise | ✅
 
-> 💡 All 8 lead backends share a common architecture: **Laravel MVC + Google Sheets API real-time sync + MySQL persistence**. Each was customized per client for lead segmentation, territory routing, and investment tier filtering.
+> 💡 All 9 lead backends share a common architecture: **Laravel MVC + Google Sheets API real-time sync + MySQL persistence**. Each was customized per client for lead segmentation, territory routing, and investment tier filtering.
 
 
 
